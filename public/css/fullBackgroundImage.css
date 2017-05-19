@@ -1,0 +1,8 @@
+body {
+    background: url('http://localhost/laravel/public/images/background.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100%; 
+}
